@@ -44,7 +44,7 @@ class O00OOOOOO0OO0OOOO :#line:3
             O0O0O00OO00OOOO0O +=str (O00OOOO0OOOOOO0O0 [OO0OO0O00OOO0000O ])+" "#line:69
         print (O0O0O00OO00OOOO0O )#line:70
 def O0OO0OO0OO00O0O00 ():#line:72
-    print ("CHIPI CHIPI CHAPA CHAPA") #line73
+    print ("CHIPI CHIPI CHAPA CHAPA :)") #line73
     ""#line:74
 if __name__ =="__main__":#line:77
     O0OO0OO0OO00O0O00 ()
